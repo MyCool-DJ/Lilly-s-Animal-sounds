@@ -1,8 +1,10 @@
+#day 15 of 100-days-of-code with Replit
+
 print("I am Lilly your personal AI, let's play a game with animal sounds")
 
 play = "Yes" or "yes"
 
-while play != "No" or "no":
+while play != "no":
     animal_sound = input("What animal sound do you want to hear?")
 
     if animal_sound == "cow" or animal_sound == "Cow":
